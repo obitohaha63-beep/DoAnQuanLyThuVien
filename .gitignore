@@ -1,0 +1,31 @@
+
+```gitignore
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local database files
+*.mdf
+*.ldf
