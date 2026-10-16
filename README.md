@@ -5,7 +5,7 @@ Repository đồ án môn học. Hiện tại chỉ có cấu trúc solution và
 ## Thành viên
 
 - Thành viên 1: Đinh Công Thành
-
+- Thành viên 2: Trần Huỳnh Phát
 ## Cấu trúc
 
 - `Library.Data`: Class Library cho tầng dữ liệu.
